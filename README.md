@@ -1,4 +1,4 @@
-Airbnb Data Cleaning with Pandas
+# Airbnb Data Cleaning with Pandas
 Project Overview
 
 This project demonstrates a complete data cleaning workflow using Python and Pandas on an Airbnb dataset. The goal is to transform raw data into a clean and analysis-ready dataset by handling missing values, duplicates, inconsistent formatting, and data type issues.
